@@ -1,6 +1,7 @@
 # simple-SHA-generator
 Generate sha1, sha256, sha512 and automatically copy it to clipboard
 
+# Ubuntu 20.04
 ## Requirements
 
 * Install pyperclip: 
